@@ -1,8 +1,6 @@
 
 # Latest E-Commerce Sales Analytics Dashboard
 I recently built a fully interactive Sales Analytics Dashboard in Microsoft Excel using Pivot Tables, Pivot Charts, and Slicers and I'm proud of how it turned out!  What this dashboard covers: Sales by City,Product-wise Sales,Sales by Sales Rep,Sales by Category, Month-wise Sales,Interactive Month Slicer.
-## Dashboard Preview
-
 ## Dashboard Description
 
 ### Dashboard 1 Sales by City & Product-wise Sales
@@ -35,14 +33,12 @@ and Months. Total combined sales: **PKR 651,000**.
 ![image alt]( https://github.com/uu1938485-code/Latest-Excel-Dashboard-Project-/blob/85685982829a3c0c5c1c76cd477de6739062e2e1/Table.GIF)
 ## Key Business Insights
 
--  **Top City:** Faisalabad — PKR 192,000 in total sales
--  **Best Sales Rep:** Sara Ahmed — PKR 192,000 revenue generated
--  **Best Product:** LED Monitor — PKR 192,000 in sales
--  **Leading Category:** Furniture — 46% of total sales
--  **Peak Month:** April — PKR 192,000 highest monthly revenue
--  **Slowest Month:** March — PKR 5,000 lowest monthly revenue
-
----
+-  **Top City:** Faisalabad PKR 192,000 in total sales
+-  **Best Sales Rep:** Sara Ahmed PKR 192,000 revenue generated
+-  **Best Product:** LED Monitor  PKR 192,000 in sales
+-  **Leading Category:** Furniture 46% of total sales
+-  **Peak Month:** April PKR 192,000 highest monthly revenue
+-  **Slowest Month:** March PKR 5,000 lowest monthly revenue
 
 ##  Tools & Technologies Used
 
