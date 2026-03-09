@@ -32,7 +32,7 @@ seasonal business trends.
 The Pivot Table is the data foundation for all dashboards, summarizing 
 sales across 5 dimensions: Cities, Products, Sales Reps, Categories, 
 and Months. Total combined sales: **PKR 651,000**.
-![Dashboard 4](4.GIF)
+![image alt]( https://github.com/uu1938485-code/Latest-Excel-Dashboard-Project-/blob/85685982829a3c0c5c1c76cd477de6739062e2e1/Table.GIF)
 ## Key Business Insights
 
 -  **Top City:** Faisalabad — PKR 192,000 in total sales
