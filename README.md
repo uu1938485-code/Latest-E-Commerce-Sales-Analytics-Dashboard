@@ -8,8 +8,6 @@ I recently built a fully interactive Sales Analytics Dashboard in Microsoft Exce
 ![Dashboard 3](3.GIF)
 ![Dashboard 4](4.GIF)
 
----
-
 ## Dashboard Description
 
 ### Dashboard 1 — Sales by City & Product-wise Sales
@@ -73,11 +71,11 @@ and Months. Total combined sales: **PKR 651,000**.
 - Chart Formatting & Visualization
 - Slicer Integration for Dynamic Filtering
 - Sales KPI Reporting
-
-##  About Me
-
+- ##  About Me
 Aspiring **Data Analyst** passionate about turning raw data into 
 meaningful business insights using Excel, Pivot Tables & Dashboards.
+
+
 ![image alt]( https://github.com/uu1938485-code/Latest-Excel-Dashboard-Project-/blob/85685982829a3c0c5c1c76cd477de6739062e2e1/1.GIF)
 ![image alt]( https://github.com/uu1938485-code/Latest-Excel-Dashboard-Project-/blob/85685982829a3c0c5c1c76cd477de6739062e2e1/2.GIF)
 ![image alt]( https://github.com/uu1938485-code/Latest-Excel-Dashboard-Project-/blob/85685982829a3c0c5c1c76cd477de6739062e2e1/3.GIF)
