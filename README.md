@@ -63,6 +63,7 @@ and Months. Total combined sales: **PKR 651,000**.
 - Chart Formatting & Visualization
 - Slicer Integration for Dynamic Filtering
 - Sales KPI Reporting
-- ##  About Me
+
+  ##  About Me
 Aspiring **Data Analyst** passionate about turning raw data into 
 meaningful business insights using Excel, Pivot Tables & Dashboards.
